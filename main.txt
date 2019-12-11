@@ -1,0 +1,6 @@
+import module_say;
+
+main() {
+ // to do something
+ module_say().say('hello main');
+}
