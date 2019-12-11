@@ -3,4 +3,10 @@ import module_say;
 main() {
  // to do something
  module_say().say('hello main');
+ // play music
+ play_music();
+}
+
+play_music() {
+ module_say().say('play_music');
 }
