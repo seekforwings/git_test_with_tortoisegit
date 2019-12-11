@@ -1,3 +1,4 @@
-say(Strin msg) {
+say(Strin msg, String msg2) {
  // say msg
+ // say msg2
 }
